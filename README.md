@@ -1,12 +1,11 @@
-# vue-app
+# vue-crud-two
 
-### [Lihat Tutorial](https://www.wahyunanangwidodo.com/2020/10/belajar-vuejs-pemula-membuat-aplikasi-crud.html)
-
-## Instalasi
+## Instalation
 
 ```
-git clone https://github.com/weenwe/vue-app.git
-cd vue-app
+git clone git@github.com:kritimauludin/vue-crud-two.git [with ssh]
+git clone https://github.com/kritimauludin/vue-crud-two.git [with https]
+cd vue-crud-two
 npm install
 npm run serve
 ```
